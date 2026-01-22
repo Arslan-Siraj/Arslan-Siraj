@@ -2,6 +2,7 @@ I am a bioinformatician and PhD student at the University of Tübingen, speciali
 
 - **Google Scholar:** https://scholar.google.com/citations?user=3fpBbDkAAAAJ&hl=en  
 - **LinkedIn:** https://www.linkedin.com/in/arslan-siraj-507949155/
+- **Email:** arslan.qau11@gmail.com
 
 <!--
 **Arslan-Siraj/Arslan-Siraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
