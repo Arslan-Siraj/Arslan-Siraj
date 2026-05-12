@@ -1,4 +1,4 @@
-I am a bioinformatician and PhD student at the University of Tübingen, specializing in mass spectrometry–based proteomics, protein–nucleic acid cross-linking, and machine learning. My research integrates bioinformatics, computational mass spectrometry, data science, machine learning, and software development, with the aim of facilitating biological discovery and ensuring reproducible data analysis.
+I am a bioinformatician and PhD student at the University of Tübingen, specializing in mass spectrometry-based proteomics, protein-nucleic acid cross-linking, and machine learning. My research integrates bioinformatics, computational mass spectrometry, data science, machine learning, and research software development, with the aim of facilitating biological discovery and ensuring reproducible data analysis.
 
 - **Google Scholar:** https://scholar.google.com/citations?user=3fpBbDkAAAAJ&hl=en  
 - **LinkedIn:** https://www.linkedin.com/in/arslan-siraj-507949155/
